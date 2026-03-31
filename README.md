@@ -27,7 +27,7 @@ Studied a cybercrime case (phishing) and created a checklist of preventive measu
 🔗 Project Links
 📊 Presentation (Task 1): [https://canva.link/9z89e7r9u4jjdmu]
 💼 Digital Portfolio (Task 2): [https://canva.link/0nssontote56g81]
-📁 GitHub Repository: [https://github.com/shivamthenuag/Digital_Literacy.git]
+📁 GitHub Repository: [https://github.com/yasirkhangrg/Digital-Literacy.git]
 📄 Project Report: Available in /report folder
 📝 Conclusion
 This project helped me understand the importance of digital literacy in everyday life. I have learned how to use digital platforms effectively, communicate professionally, and stay safe in the online environment.
